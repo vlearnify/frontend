@@ -1,0 +1,18 @@
+.header {
+  background-color: rgb(20, 29, 33);
+  border-color: rgb(38, 50, 56);
+  margin: 5px;
+  color: white;
+
+  .p-menuitem-link:hover{
+      background-color: rgb(38, 50, 56) !important;
+  }
+
+  .p-menuitem-text {
+    color: white !important;
+  }
+
+  .logo {
+    padding: 0 10px;
+  }
+}
